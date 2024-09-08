@@ -2,6 +2,7 @@
 
 <template>
   <p>修改了一行</p>
+  <p>新增功能1</p>
 </template>
 
 <style scoped>
