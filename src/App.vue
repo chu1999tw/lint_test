@@ -69,6 +69,10 @@
       </div>
     </div>
   </div>
+
+  <div>add func1</div>
+  <div>add func2</div>
+  <div>add func3</div>
 </template>
 
 <style>
